@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EvilTatur
 - 👀 I’m interested in Technology and Gaming
-- 🌱 I’m currently learning angular
 
 <!---
 EvilTatur/EvilTatur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
